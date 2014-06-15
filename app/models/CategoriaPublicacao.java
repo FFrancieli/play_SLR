@@ -20,6 +20,4 @@ public class CategoriaPublicacao {
 	public void setCategoriaPublicacao(String categoriaPublicacao) {
 		CategoriaPublicacao = categoriaPublicacao;
 	}
-	
-	
 }
