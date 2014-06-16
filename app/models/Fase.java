@@ -5,7 +5,7 @@ package models;
 
 /**
  * @author Francieli
- *
+ * Define se a publicação está em fase de seleção ou em fase de extração 
  */
 public class Fase {
 	long IDFase;
@@ -42,7 +42,5 @@ public class Fase {
 	public void setFase(String fase) {
 		this.fase = fase;
 	}
-	
-	
-	
+
 }

@@ -1,5 +1,12 @@
 package models;
 
+/**
+ * 
+ * @author Francieli
+ * Define país da publicação
+ *
+ */
+
 public class Pais {
 	long idPais;
 	String nomePais;

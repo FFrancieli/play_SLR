@@ -5,7 +5,7 @@ package models;
 
 /**
  * @author Francieli 
- *
+ * Cria relação entre publicação e autor
  */
 public class RelacaoAutorPublicacao {
 	long IDRelacaoAutorPublicacao;

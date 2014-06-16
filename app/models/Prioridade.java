@@ -1,5 +1,11 @@
 package models;
 
+/**
+ * 
+ * @author Francieli
+ * Define modelo para prioridade de leitra do artigo
+ */
+
 public class Prioridade {
 	Long IDPrioridadeLeitura;
 	String PrioridadeLeitura;

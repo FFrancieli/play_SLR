@@ -1,5 +1,10 @@
 package models;
 
+/**
+ * @author Francieli
+ * Cria relação entre autor e publicação
+ */
+
 public class Editora {
 	Long IDEditora;
 	String editora;
